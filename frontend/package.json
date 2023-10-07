@@ -59,7 +59,7 @@
     "lodash": "^4.17.21",
     "next": "13.4.2",
     "nock": "^13.3.1",
-    "postcss": "8.4.23",
+    "postcss": "8.4.31",
     "prettier": "^2.8.8",
     "pretty-bytes": "^6.1.0",
     "react": "18",
