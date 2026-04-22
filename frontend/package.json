@@ -61,7 +61,7 @@
     "framer-motion": "^10.15.0",
     "front-matter": "^4.0.2",
     "i18next": "^23.4.1",
-    "i18next-http-backend": "^2.2.1",
+    "i18next-http-backend": "^3.0.5",
     "lodash": "^4.17.21",
     "marked": "^9.0.3",
     "next": "13.4.19",
